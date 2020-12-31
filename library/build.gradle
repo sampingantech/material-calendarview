@@ -27,7 +27,7 @@ android {
   }
 }
 
-group = "com.github.prolificinteractive"
+group = "com.github.sampingantech"
 version = android.defaultConfig.versionName
 archivesBaseName = 'material-calendarview'
 
