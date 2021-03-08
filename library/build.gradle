@@ -32,8 +32,7 @@ version = android.defaultConfig.versionName
 archivesBaseName = 'material-calendarview'
 
 dependencies {
-  implementation "com.android.support:multidex:1.0.3"
-  coreLibraryDesugaring "com.android.tools:desugar_jdk_libs:1.1.1"
+  coreLibraryDesugaring "com.android.tools:desugar_jdk_libs:1.1.5"
   implementation rootProject.ext.supportV4
   implementation rootProject.ext.supportAppCompat
   implementation rootProject.ext.supportAnnotations
